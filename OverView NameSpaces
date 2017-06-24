@@ -113,7 +113,14 @@ using System;
 // using Bloodborne.FrameColor.GlobalWind [[[==== confirmed basis two
 // using Bloodborne.FrameColor.Distance [[[[=== Fleein Point n Color Additionism
 // using Bloodborne.FrameColor.Noise [[ Reflections
-// using BLoodborne.FrameColor.Addin [[ Additionism of colors, as motion variables
+// using Bloodborne.FrameColor.Addin [[ Additionism of colors, as motion variables
+// using Bloodborne.FrameColor.DayFloat [[
+// using Bloodborne.FrameColor.DayFloat.Water [[
+// using Bloodborne.FrameColor.DayFloat.Light [[
+// using Bloodborne.FrameColor.DayFloat.Object [[
+// using Bloodborne.FrameColor.DayFloat.
+// using Bloodborne.FrameColor.AIFastEvoL [[ ArrayS indexes for the topography
+//
 //
 // [[[[[[[[[[ Shape Molecular Physics Theory
 // using Bloodborne.Shape [[ word shape does not need da ==>>> s
@@ -126,7 +133,7 @@ using System;
 // using Bloodborne.Shape.Carryin.round [[=== gravity
 // using Bloodborne.Shape.Reflection.Noise
 // using Bloodborne.Shape.Carryin.Noise [[ = string
-// using Bloodborne.Shape Carryin [[ word shape's Carryin does not need da ==>>> spiderweb light_day // Dark_Light
+// using Bloodborne.Shape.Carryin [[ word shape's Carryin does not need da ==>>> spiderweb light_day // Dark_Light
 // [[[[[[[[[[ Shape Molecular Physics Theory//
 //
 //
